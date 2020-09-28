@@ -21,3 +21,8 @@ p{
 .Titlecabecera h1, P{
     color: white;
 }
+.CabeceraLeo{
+    background-color: chartreuse;
+    padding-top:10px ;
+    margin-top: 10px;
+}
