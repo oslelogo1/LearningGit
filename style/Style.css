@@ -1,6 +1,5 @@
 div{
     
-    background: antiquewhite;
     width: 90%;
     display: flex;
     flex-direction: column;
@@ -9,4 +8,5 @@ div{
 p{
     color: blue;
     font-size: 18px;
+    font-family:cursive ;
 }
