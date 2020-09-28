@@ -10,3 +10,14 @@ p{
     color: blue;
     font-size: 18px;
 }
+.Titlecabecera{
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10PX 40PX 10PX 40PX;
+    border: solid greenyellow;
+}
+.Titlecabecera h1, P{
+    color: white;
+}
