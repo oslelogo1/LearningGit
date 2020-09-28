@@ -1,0 +1,12 @@
+div{
+    
+    background: antiquewhite;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+p{
+    color: red;
+    font-size: 18px;
+}
